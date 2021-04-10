@@ -169,8 +169,9 @@ if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
 */
-//FIX change if statment to (minAge >= age)
-//we console.log 'enter' 
+//FIX though the statment read different the result is technically the same
+// change if statment to (minAge >= age)
+//we console.log 'enter'
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge
