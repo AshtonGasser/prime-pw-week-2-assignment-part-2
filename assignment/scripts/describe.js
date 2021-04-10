@@ -137,7 +137,8 @@ if (number >= 2) {
 }
 
 */
-
+//FIX - swap colorOne and colorTwo to their respective values
+// then set colorTwo to equal purple
 
 
 //4. We start with three variables -- colorOne is set to 'blue' and
@@ -153,6 +154,8 @@ if (mix === true) {
   colorOne = 'purple';
 }
 */
+// Fix change || to &&
+//
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4
@@ -166,6 +169,8 @@ if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
 */
+//FIX change if statment to (minAge >= age)
+//we console.log 'enter' 
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge
